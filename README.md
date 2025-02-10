@@ -148,4 +148,3 @@ Contributions are welcome! If you'd like to contribute, please:
 
 ## Questions or Issues?
 If you have any questions or encounter issues, feel free to open an issue on the [GitHub repository](https://github.com/Monish-Nallagondalla/AI_CoverLetter_generator/issues).
-```
