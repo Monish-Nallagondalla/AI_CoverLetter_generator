@@ -1,4 +1,3 @@
-```markdown
 # AI Cover Letter Generator
 
 The **AI Cover Letter Generator** is a Streamlit-based application that automates the creation of personalized cover letters for job applications. It uses advanced natural language processing (NLP) techniques powered by the **Groq API** (with the `llama-3.1-70b-versatile` model) to extract job details from a provided URL and generate tailored cover letters based on the user's resume and portfolio.
